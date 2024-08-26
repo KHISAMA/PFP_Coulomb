@@ -5,10 +5,11 @@ Kaoru Hisama
 ## Citation
 
 Kaoru Hisama, Gerardo Valadez Huerta, and Michihisa Koyama, J. Comput. Chem. (2024).
+https://doi.org/10.1002/jcc.27487
 
 ## requirement
 
-- ASE, pfp_api_client (version 1.3.0 or later) (for codes in "YSZ" and "HClaq" directory)
+- ASE, pfp_api_client (version 1.3.0 or later) 
 - confirmed with ASE 3.22.1, python 3.8 environment in Matlantis
 
 This code only work in Matlantis (https://matlantis.com/), the PFP hosting service.
